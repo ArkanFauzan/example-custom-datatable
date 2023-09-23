@@ -1,0 +1,13 @@
+.datatable {
+  margin-top: 20px;
+  width: 80%;
+}
+
+.datatable table {
+  width: 100%;
+}
+
+.datatable .filter-datatable {
+  display: flex;
+  flex-wrap: nowrap;
+}
